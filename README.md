@@ -1,7 +1,7 @@
 # Artificial Neural Network Model
+####Summary : 
 <img width="532" alt="Screenshot 2021-03-24 at 15 25 21" src="https://user-images.githubusercontent.com/48187656/112372981-2458cc80-8ce9-11eb-9d9b-131c1372669a.png">
-![image](https://user-images.githubusercontent.com/48187656/112373436-a3e69b80-8ce9-11eb-86c1-12e4d53da232.png)
-
+<img width="532" alt="s" src="https://user-images.githubusercontent.com/48187656/112373808-0cce1380-8cea-11eb-95a2-6c3f4e7ed98e.png">
 
 #### This is a model with 2 hidden layers which can predict, based on a set of given information about a customer, if that customer will leave the bank or will stay. Informations about the customers are : customerId, surname, creditscore, geography, gender, age, tenure, balance, numOfProducts, hasCrCard, isActiveMember, EstimatedSalary, exited. The model was created using Tensorflow library the Sequential class. Other informations are in the comments inside the code.
 
